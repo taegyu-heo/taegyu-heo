@@ -7,14 +7,14 @@
 
 <hr/>
 
-'''c++
+```c++
 #include <iostream>
 
 int main(){
   std :: cout << "HELLO WORLD!" << std :: endl;
   return 0;
 }
-'''
+```
 
 ###### I'm currently learn...
   - engineering design
