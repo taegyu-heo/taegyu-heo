@@ -1,27 +1,27 @@
-# HELLO I AM **TAE GYU**
+# HELLO I AM **TAE GYU** 😃
 
----
+<hr/>
 
-### I'm student of Yeongnam Unversity
-### My major is computer engineering
+### I'm student of Yeongnam Unversity <https://www.yu.ac.kr/main/index.do>
+### My major is computer engineering <https://cse.yu.ac.kr/cse/index.do>
 
-##### I learn a...
-- engineering design
-- logic circuit
-- open source SW
-- discrete mathmatics
-- HTML and CSS
-- C++
-- etc
+<hr/>
 
+'''c++
+#include <iostream>
 
+int main(){
+  std :: cout << "HELLO WORLD!" << std :: endl;
+  return 0;
+}
+'''
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### I'm currently learn...
+  - engineering design
+  - logic circuit
+  - open source SW
+  - discrete mathmatics
+  - HTML and CSS
+  - C++
+  - etc
+
