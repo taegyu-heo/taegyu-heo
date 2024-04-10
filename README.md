@@ -1,6 +1,20 @@
-### I'm student, YU.
+# HELLO I AM **TAE GYU**
 
-#I learn a computer engineering
+---
+
+### I'm student of Yeongnam Unversity
+### My major is computer engineering
+
+##### I learn a...
+- engineering design
+- logic circuit
+- open source SW
+- discrete mathmatics
+- HTML and CSS
+- C++
+- etc
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
