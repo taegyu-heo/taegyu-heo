@@ -10,7 +10,7 @@
 ```c++
 #include <iostream>
 
-int main(){
+int main(void){
   std :: cout << "HELLO WORLD!" << std :: endl;
   return 0;
 }
