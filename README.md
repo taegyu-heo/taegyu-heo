@@ -35,13 +35,14 @@ Any feedback is always welcome.<br/>
 
 ###### How to Contact ME
 
-**email** : gksrmffkdlej
+**email** : taegyu-heo@naver.com
 
 
 ```c
-#include <iostream>
+#include <stdio.h>
 
 int main(){
-  std :: cout << "HELLO WORLD!" << std :: endl;
+  printf("Hello world");
+  return (0);
 }
 ```
