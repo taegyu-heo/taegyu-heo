@@ -1,4 +1,6 @@
 # HELLO I AM ***TAE GYU*** 😃
+# nice to meet you
+# 만나서 반갑습니다. 저는 태규입니다.
 
 <hr/>
 
@@ -7,20 +9,40 @@
 
 <hr/>
 
-```c++
+###### I'm currently learn...
+  - OS
+  - communication
+  - algorithm
+  - SW design
+  - rasberry pi
+  - and etc...
+
+<hr/>
+
+Hello. I'm tae gyu. 
+i am majoring in computer engineering at Yeongnam University
+Currently, I am improving my programming skills through various projects.
+Although I still have a lot to learn, 
+I am sharing the work I have done 
+and keeping a record of what I’ve studied.
+Any feedback is always welcome.
+
+안녕하세요. 태규입니다. 저는 컴퓨터 공학을 전공하고 있는 대학생입니다.
+현재, 다양한 프로젝트를 통해 프로그래밍 실력을 늘리고 있습니다.
+많이 부족하지만, 제가 작업한 것을 공유하고, 공부한 것을 기록하고 있습니다.
+다양한 의견은 언제든지 환영입니다.
+
+<hr/> contact 
+
+###### How to Contact ME
+
+**email** : gksrmffkdlej
+
+
+```c
 #include <iostream>
 
 int main(){
   std :: cout << "HELLO WORLD!" << std :: endl;
 }
 ```
-
-###### I'm currently learn...
-  - engineering design
-  - logic circuit
-  - open source SW
-  - discrete mathmatics
-  - HTML and CSS
-  - C++
-  - etc
-
