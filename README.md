@@ -23,8 +23,7 @@ Hello. I'm tae gyu.<br/>
 i am majoring in computer engineering at Yeongnam University<br/>
 Currently, I am improving my programming skills through various projects.<br/>
 Although I still have a lot to learn,<br/> 
-I am sharing the work I have done<br/> 
-and keeping a record of what I’ve studied.<br/>
+I am sharing the work I have done and keeping a record of what I’ve studied.<br/>
 Any feedback is always welcome.<br/>
 
 안녕하세요. 태규입니다. 저는 컴퓨터 공학을 전공하고 있는 대학생입니다.<br/>
